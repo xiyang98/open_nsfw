@@ -120,7 +120,7 @@ def main(argv):
 
     # Scores is the array containing SFW / NSFW image probabilities
     # scores[1] indicates the NSFW probability
-    print "NSFW score:  " , scores[1]
+    print ("NSFW score:  " , scores[1])
 
 
 
